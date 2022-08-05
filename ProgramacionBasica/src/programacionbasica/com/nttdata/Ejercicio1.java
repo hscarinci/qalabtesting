@@ -4,6 +4,7 @@ package programacionbasica.com.nttdata;
 
 public class Ejercicio1 {
     public static void main(String[] args) {
+        //Ejercicio 1
         System.out.println("Bienvenidos al mundo Java!");
         //Declaracion
         int DIVISION1;
